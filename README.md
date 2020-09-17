@@ -4,4 +4,4 @@
 Coming Soon
 will update accordingly!
 
-Cleaning Datasets
+Cleaning Datasets, training Data, Testing Model
